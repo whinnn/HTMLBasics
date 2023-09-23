@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>First and foremost, the first heading.</h1>
+<h2>This is another heading.</h2>
+<h3>You guessed it...another heading!</h3>
+<h4>This is the fourth heading.</h4>
+<h5>Say hello to the fifth heading!</h5>
+<h6>Last and Least, number six.</h6>
+
+<p>This is what is called a paragraph in coding.  You can have a big paragraph or a small paragraph.
+You can even have multiple paragraphs within your body.  Paragraphs are cool!</p>
+
+<ol></ol>
+</body>
+</html
